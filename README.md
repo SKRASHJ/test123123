@@ -4,7 +4,7 @@
 
 # Download Hack
 
-|[Download]([http://2ip.ru/])|
+<a href="mail.rambler.ru" target="_blank">DOWNLOAD</a>
 |:-------------|
 Passwrod: `2077`
 
