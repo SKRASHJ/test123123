@@ -4,7 +4,7 @@
 
 # Download Hack
 
-|[Download](http://nccrack.ru/)|
+|[Download](http://2ip.ru/)|
 |:-------------|
 
 Passwrod: `2077`
